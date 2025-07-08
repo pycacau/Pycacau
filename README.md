@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cacau</h1>
 <h3 align="center">Full Stack Developer and IT Technician driven by curiosity and a passion for making things work. I mainly work with Python and Java, building clean, efficient, and real-world solutions. I value creativity, structure, and challenges that push me forward, always learning, always improving, one line of code at a time.</h3>
 
-- 🌱 I’m currently learning **Java - python**
+- 🌱 I’m currently learning **C++ - C#**
 
 - 💬 Ask me about **Anything.**
 
