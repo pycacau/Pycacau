@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **turcacau@gmail.com**
 
-- ⚡ Fun fact **Cacau is not my nickname, it is my last name and I am Brazilian.**
+- ⚡ Fun fact **Cacau is not my nickname, it is my last name and I am Brazilian. 🇧🇷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
