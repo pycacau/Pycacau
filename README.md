@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pycacau/pycacau/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="left">Full Stack Developer and IT Technician driven by curiosity and a passion for making things work. I mainly work with Python and Java, building clean, efficient, and real-world solutions. I value creativity, structure, and challenges that push me forward, always learning, always improving, one line of code at a time.<br><br>💬 Ask me about Anything.<br><br>📫 How to reach me turcacau@gmail.com<br><br>⚡ Fun fact Cacau is not my nickname, it is my last name and I am Brazilian.</h4>
 
 ###
@@ -61,13 +57,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pycacau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pycacau/pycacau/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pycacau/pycacau/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pycacau/pycacau/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
