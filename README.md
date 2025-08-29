@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">💬 Ask me about Anything.<br><br>📫 How to reach me turcacau@gmail.com<br><br>⚡ Fun fact Cacau is not my nickname, it is my last name and I am Brazilian.</p>
+<p align="center">💬 We can talk about programming, development, and even hacking... I mean, security.<br><br>📫 Contact us by email: turcacau@gmail.com<br><br>⚡ Fun fact: My first technological creation was in vs code in 2022 and I made a bot explain "I won" in my friend's direct message after he lost an X1 to me.</p>
 
 ###
 
