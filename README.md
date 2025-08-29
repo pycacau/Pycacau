@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Full Stack Developer and IT Technician driven by curiosity and a passion for making things work. I mainly work with Python and Java, building clean, efficient, and real-world solutions. I value creativity, structure, and challenges that push me forward, always learning, always improving, one line of code at a time.</p>
+<p align="center">Full Stack Developer and IT Technician, driven by curiosity and a passion for making things work. I work in development and security, building clean, efficient, and realistic solutions. I value creativity, structure, and challenges that drive me, always learning and improving, one line of code at a time.</p>
 
 ###
 
