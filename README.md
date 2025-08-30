@@ -1,61 +1,48 @@
-<h1 align="center">Hi 👋, I'm Cacau</h1>
+#### Hey there, I'm Artur! 👋
 
-###
+I am a Full Stack Developer & IT Technician from Brazil. :brazil:  
 
-<p align="center">Full Stack Developer and IT Technician, driven by curiosity and a passion for making things work. I work in development and security, building clean, efficient, and realistic solutions. I value creativity, structure, and challenges that drive me, always learning and improving, one line of code at a time.</p>
+I specialize in building clean, efficient and secure solutions, from backend to frontend, always focused on scalability and performance.  
+My experience covers **development, security, and IT support**, with a strong curiosity for ethical hacking and system optimization.  
 
-###
+Currently, I am evolving my skills in **Pentest, Full Stack Web Development, and Automation**, always looking for new challenges to push my limits. 🚀  
 
-<p align="center">💬 We can talk about programming, development, and even hacking... I mean, security.<br><br>📫 Contact us by email: turcacau@gmail.com<br><br>⚡ Fun fact: My first technological creation was in vs code in 2022 and I made a bot explain "I won" in my friend's direct message after he lost an X1 to me.</p>
+Check out my skills below 👇  
 
-###
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/arturmaciell_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/771795585190985790" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="40" alt="discord logo"  />
-  </a>
-  <a href="turcacau@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp)](https://skillicons.dev)
 
-###
+## Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,fastapi)](https://skillicons.dev)
 
-<h2 align="center">I code with</h2>
+## Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb)](https://skillicons.dev)
 
-###
+## Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vite)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="43" alt="postgresql logo"  />
-</div>
+## Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,bash,postman,vscode)](https://skillicons.dev)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pycacau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 Commit Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pycacau&theme=react-dark&hide_border=true" />
+</p>
 
-###
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:turcacau@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/arturmaciell"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+⚡ **Fun fact:**  
+Back in 2022, my first project was a bot that automatically sent *“I won”* to a friend’s DM after beating him in a 1v1. 😅
