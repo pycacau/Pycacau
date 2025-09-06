@@ -12,10 +12,10 @@ Check out my skills below 👇
 ---
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,php,cpp)](https://skillicons.dev)
 
 ## Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,fastapi,laravel)](https://skillicons.dev)
 
 ## Backend & Databases
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb)](https://skillicons.dev)
@@ -44,4 +44,4 @@ Check out my skills below 👇
 ---
 
 ⚡ **Fun fact:**  
-Back in 2022, my first project was a bot that automatically sent *“I won”* to a friend’s DM after beating him in a 1v1. 😅
+Back in 2022, my first project was a bot that automatically sent *"I won"* to a friend's DM after beating him in a 1v1. 😅
